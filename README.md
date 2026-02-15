@@ -34,6 +34,8 @@ justify-content
 
 Layout alignment and spacing
 
+You can view my task here:https://sreenandh76.github.io/Image-Gallery/
+
 This is a static frontend layout project created for learning and practice purposes.
 
 You can view my task here:
